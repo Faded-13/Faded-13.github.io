@@ -1,4 +1,4 @@
-# MDwiki
+# 接受我的朵蜜叭！
 
 [About](index.md)
 
@@ -6,7 +6,7 @@
 
   * [A Thought on English](english/english-formula.md)
   * [Phonetic Phonics](english/Phonetic-Phonics.md)
-  - - - -
+- - - -
   * # Advanced
   * [Stress and Syllables](english/stress.md)
 
